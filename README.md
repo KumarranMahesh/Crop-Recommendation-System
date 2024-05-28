@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/KumarranMahesh/crop-recommendation-system.git
+git clone https://github.com/KumarranMahesh/Crop-Recommendation-System.git
 ```
 
 2. Navigate to the project directory:
