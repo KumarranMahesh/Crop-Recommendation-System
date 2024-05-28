@@ -57,5 +57,5 @@ The project includes the following steps for model training:
 The models are evaluated based on accuracy, with a split of the dataset into training and testing sets using an 80-20 ratio. The Random Forest model achieved the highest accuracy of 100%.
 
 ## Results
-Random Forest Model: Achieved an accuracy of 100% on the test set.
-The trained model is saved as model.pkl for future use.
+- Random Forest Model: Achieved an accuracy of 100% on the test set.
+- The trained model is saved as model.pkl for future use.
