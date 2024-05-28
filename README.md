@@ -29,3 +29,19 @@ The dataset used for this project is `Crop_recommendation.csv`, which contains t
 To run this project, you need to have Python installed along with several libraries. You can install the required libraries using the following command:
 ```bash
 pip install -r requirements.txt
+```
+
+## Usage
+1. Clone the repository:
+```bash
+git clone https://github.com/KumarranMahesh/crop-recommendation-system.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd crop-recommendation-system
+```
+
+3. Ensure you have the dataset Crop_recommendation.csv in the data directory.
+
+4. Run the Jupyter notebook or Python script to execute the project.
