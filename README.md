@@ -49,9 +49,9 @@ cd crop-recommendation-system
 ## Model Training
 The project includes the following steps for model training:
 
-1. **Data Preprocessing**: Handling missing values, scaling numerical features, and encoding categorical features.
-2.** Exploratory Data Analysis (EDA)**: Visualizing distributions and correlations of features using Matplotlib and Seaborn.
-3. **Model Implementation**: Training multiple machine learning models including Logistic Regression, Random Forest, Gradient Boosting, and more.
+- **Data Preprocessing**: Handling missing values, scaling numerical features, and encoding categorical features.
+- **Exploratory Data Analysis (EDA)**: Visualizing distributions and correlations of features using Matplotlib and Seaborn.
+- **Model Implementation**: Training multiple machine learning models including Logistic Regression, Random Forest, Gradient Boosting, and more.
 
 ## Evaluation
 The models are evaluated based on accuracy, with a split of the dataset into training and testing sets using an 80-20 ratio. The Random Forest model achieved the highest accuracy of 100%.
