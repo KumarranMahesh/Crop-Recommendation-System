@@ -10,8 +10,6 @@ This project aims to build a machine learning model that can recommend the most 
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The Crop Recommendation System leverages machine learning algorithms to suggest the most appropriate crop to cultivate under given conditions. It includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation steps to ensure high accuracy and reliability.
