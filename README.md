@@ -45,3 +45,17 @@ cd crop-recommendation-system
 3. Ensure you have the dataset Crop_recommendation.csv in the data directory.
 
 4. Run the Jupyter notebook or Python script to execute the project.
+
+## Model Training
+The project includes the following steps for model training:
+
+1. **Data Preprocessing**: Handling missing values, scaling numerical features, and encoding categorical features.
+2.** Exploratory Data Analysis (EDA)**: Visualizing distributions and correlations of features using Matplotlib and Seaborn.
+3. **Model Implementation**: Training multiple machine learning models including Logistic Regression, Random Forest, Gradient Boosting, and more.
+
+## Evaluation
+The models are evaluated based on accuracy, with a split of the dataset into training and testing sets using an 80-20 ratio. The Random Forest model achieved the highest accuracy of 100%.
+
+## Results
+Random Forest Model: Achieved an accuracy of 100% on the test set.
+The trained model is saved as model.pkl for future use.
