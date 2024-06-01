@@ -42,7 +42,7 @@ git clone https://github.com/KumarranMahesh/Crop-Recommendation-System.git
 cd Crop-Recommendation-System
 ```
 
-3. Ensure you have the dataset Crop_recommendation.csv in the data directory.
+3. Ensure you have the dataset `Crop_recommendation.csv` in the data directory.
 
 4. Run the Jupyter notebook or Python script to execute the project.
 
