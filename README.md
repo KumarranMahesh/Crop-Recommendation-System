@@ -39,7 +39,7 @@ git clone https://github.com/KumarranMahesh/Crop-Recommendation-System.git
 
 2. Navigate to the project directory:
 ```bash
-cd crop-recommendation-system
+cd Crop-Recommendation-System
 ```
 
 3. Ensure you have the dataset Crop_recommendation.csv in the data directory.
